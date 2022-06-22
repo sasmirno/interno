@@ -1038,7 +1038,7 @@ h6 {
   margin-left: 0.3125rem;
 }
 
-.active:after {
+.open:after {
   font-family: icomoon;
   content: "\e901";
 }
