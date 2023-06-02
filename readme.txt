@@ -1,4 +1,14 @@
-Лэндинг полностью выполнен на относительных единицах измерения, с исползьзованием Gulp, scss, flexbox, drid и чутка js.
+Сайт одностраничник
 
-Макет
-https://www.figma.com/file/6DfnHqcXvrOOuIw5yPnW2C/Interno
+При вёрстке сайт использовался таск-менеджер gulp и препроцессор SCSS
+
+Адаптивный и кроссбраузерный, в CSS используется grid layout и flexbox
+
+Google шрифты, иконочный шрифт и favicon иконка
+
+JavaScript используется для проверки поддержки браузером webp изображений, для меню бургер и выпадающего списка в мобильной версии сайта
+
+Open Graph и SEO по минимуму
+
+Сайт свёрстан по figma макету
+Макет https://www.figma.com/file/6DfnHqcXvrOOuIw5yPnW2C/Interno
